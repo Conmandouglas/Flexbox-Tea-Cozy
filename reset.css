@@ -1,0 +1,5 @@
+html, body, div, p, a, img, footer, header, menu, nav, video, h2, h4 {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
