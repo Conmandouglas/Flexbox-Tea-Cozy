@@ -1,14 +1,6 @@
 body {
   height: 2000px;
-  background-color: grey;
-}
-
-p, li {
-  font-family: Helvetica;
-  font-size: 22px;
-  color: seashell;
   background-color: black;
-  opacity: 0.9;
 }
 
 h2, h4 {
@@ -33,6 +25,11 @@ header {
 
 header img {
   height: 50px;
+}
+
+header li {
+  font-family: Helvetica;
+  font-size: 22px;
 }
 
 .links {
